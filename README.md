@@ -34,7 +34,7 @@ Para compilar e rodar este projeto, você precisará de:
 2. No terminal, navegue até o diretório do projeto:
    ```sh
    git clone https://github.com/HiagoMCarvalho/EmbarcaBell.git
-   cd ADC
+   cd projeto
    ```
 3. Crie um diretório de build e entre nele:
    ```sh
